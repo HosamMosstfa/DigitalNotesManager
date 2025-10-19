@@ -39,7 +39,7 @@ This project was developed as part of the *ITI Scholarship (C# – LINQ – Enti
 ## 📸 Demo Video
 
 🎥 Check out the demo video showcasing all the features and UI of the app:  
-👉 [Demo Video on LinkedIn](#) (Add your video link here)
+👉 [https://www.linkedin.com/posts/hossam-mostafa-b9421b28a_iti-csharp-entityframework-activity-7385734860709113856--5lt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYn2eABFPO93yeuBEd4V-aHm5LQF0Mjzh8](#) 
 
 ---
 
